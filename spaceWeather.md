@@ -62,7 +62,19 @@ Solar activity measured by the number of sunspots, follows 11-year cycle between
 
 ## Predictions of solar activity
 
-Solar Cycle Progression:
+Solar Cycle Progression: Main source of data.
 https://www.swpc.noaa.gov/products/solar-cycle-progression
 
 https://testbed.swpc.noaa.gov/products/solar-cycle-progression-updated-prediction-experimental
+
+## Forecasting/Prediction methods
+
+Solar cycle forecasting: A nonlinear dynamics approach
+https://www.aanda.org/articles/aa/pdf/2001/37/aa1538.pdf
+
+Prediction of solar cycle 25 using deep learning based long short-term memory forecasting technique
+https://www.sciencedirect.com/science/article/abs/pii/S0273117721008073
+
+Forecasting methods with Scikit-learn:
+https://cienciadedatos.net/documentos/py27-time-series-forecasting-python-scikitlearn.html
+
