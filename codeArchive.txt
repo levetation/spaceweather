@@ -1,0 +1,4 @@
+# Convert time-tag column to datetime format
+milDt['timedate'] = pd.to_datetime(milDt['time-tag'], infer_datetime_format=True).dt.strftime('%Y-%m')
+
+milDt.head()
