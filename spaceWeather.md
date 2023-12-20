@@ -5,7 +5,7 @@
 
 **The UK**
 
-Met Office Space Weather Operations Centre (MOSWOC) 1of3 prediction centres
+Met Office Space Weather Operations Centre (MOSWOC) 1 of 3 prediction centres.
 Solar storms considered national risk by UK gov since 2011.
 
 MOSWOC Forecasts include:
@@ -77,4 +77,12 @@ https://www.sciencedirect.com/science/article/abs/pii/S0273117721008073
 
 Forecasting methods with Scikit-learn:
 https://cienciadedatos.net/documentos/py27-time-series-forecasting-python-scikitlearn.html
+
+## Heliophysics (Sun physics)
+
+![The Sun's layers](https://upload.wikimedia.org/wikipedia/commons/9/9d/Layers_of_the_Sun.png)
+
+
+
+
 
