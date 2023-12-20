@@ -82,6 +82,8 @@ https://cienciadedatos.net/documentos/py27-time-series-forecasting-python-scikit
 
 ![The Sun's layers](https://upload.wikimedia.org/wikipedia/commons/9/9d/Layers_of_the_Sun.png)
 
+A guide to heliophysics: https://www.researchgate.net/publication/353767264_A_Very_Easy_Guide_To_Basic_Heliophysics
+
 
 
 
