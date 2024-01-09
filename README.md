@@ -2,4 +2,4 @@
 
 A project to understand the solar cycle of our sun.
 
-![theSun](TransitOfVenus.jpg =250x250)
+<img src="TransitOfVenus.jpg" alt="image" width="300" height="auto">
